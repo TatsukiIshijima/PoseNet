@@ -6,9 +6,12 @@ Tensorflow Lite の [Pose estimation](https://www.tensorflow.org/lite/models/pos
 ### 開発環境
 #### Python
 - Python 3.6
-- Pillow 6.1.0
-- Tensorflow 1.14.0
-- Numpy 1.16.4
+##### ライブラリ
+| 名前 | バージョン | 用途 |
+|:-----------|:------------|:------------|
+| Pillow | 6.1.0 | |
+| Tensorflow | 1.14.0 | |
+| Numpy | 1.16.4 | |
 
 #### iOS
 - macOS Mojave
