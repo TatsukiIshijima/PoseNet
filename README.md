@@ -1,7 +1,7 @@
 # PoseNet
 
 ### 概要
-Tensorflow Lite の [Pose estimation](https://www.tensorflow.org/lite/models/pose_estimation/overview) を iOS と Python で試したもの。iOS では Firebase の MLKit を用いてモデルデータの読み込み、推論を行っている。
+Tensorflow Lite の [Pose estimation](https://www.tensorflow.org/lite/models/pose_estimation/overview)、姿勢推定（骨格検出） を iOS と Python で実装したもの。iOS では Firebase の MLKit を用いてモデルデータの読み込み、推論を行っている。
 
 ### 開発環境
 #### Python
